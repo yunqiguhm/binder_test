@@ -1,7 +1,6 @@
 numpy
 opencv-python
 matplotlib
-itertools
 tensorflow
 keras
 scikit-learn
