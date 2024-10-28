@@ -1,6 +1,7 @@
-name: binder_test
+name: binder
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - python=3.8.12
   - ca-certificates=2021.10.26
